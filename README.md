@@ -21,3 +21,12 @@ I am **16**
 6. _lunch_ 
 7. _spanish_ 
 8. _weight training_
+
+
+### Favorite subjects
++ Physics
++ algebra
++ sep
++ apush
+
+
